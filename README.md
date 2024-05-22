@@ -1,1 +1,1 @@
-# MyStore
+This project is for presentation
